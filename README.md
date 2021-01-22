@@ -4,3 +4,5 @@
 1. Install Python compiler from official Python site
 2. Double click on file
 3. Ready! ;)
+
+### It have some bugs
